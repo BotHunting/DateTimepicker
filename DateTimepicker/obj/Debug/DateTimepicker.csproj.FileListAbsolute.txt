@@ -7,3 +7,12 @@ C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\DateTimepick
 C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.csproj.GenerateResource.Cache
 C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.exe
 C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.pdb
+D:\Proyek\Github\DateTimepicker\DateTimepicker\bin\Debug\DateTimepicker.exe.config
+D:\Proyek\Github\DateTimepicker\DateTimepicker\bin\Debug\DateTimepicker.exe
+D:\Proyek\Github\DateTimepicker\DateTimepicker\bin\Debug\DateTimepicker.pdb
+D:\Proyek\Github\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.csprojResolveAssemblyReference.cache
+D:\Proyek\Github\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.Form1.resources
+D:\Proyek\Github\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.Properties.Resources.resources
+D:\Proyek\Github\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.csproj.GenerateResource.Cache
+D:\Proyek\Github\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.exe
+D:\Proyek\Github\DateTimepicker\DateTimepicker\obj\Debug\DateTimepicker.pdb
